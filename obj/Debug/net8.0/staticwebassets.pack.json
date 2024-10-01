@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\actores\\27f21b1e-3550-4000-8a72-f76dbab715a2.jpg",
+      "PackagePath": "staticwebassets\\actores\\27f21b1e-3550-4000-8a72-f76dbab715a2.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\actores\\43fdf0b6-f790-46f1-bc57-23bd281b4399.jpg",
+      "PackagePath": "staticwebassets\\actores\\43fdf0b6-f790-46f1-bc57-23bd281b4399.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\actores\\6027bfc4-b64f-4a4e-9a69-29b7b180ad79.jpg",
+      "PackagePath": "staticwebassets\\actores\\6027bfc4-b64f-4a4e-9a69-29b7b180ad79.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\actores\\72d9d6a6-3319-4fc2-804f-a023e9d37f94.jpg",
+      "PackagePath": "staticwebassets\\actores\\72d9d6a6-3319-4fc2-804f-a023e9d37f94.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\peliculas\\4d340fd1-6cbf-4585-afde-b78adea19edd.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\4d340fd1-6cbf-4585-afde-b78adea19edd.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\peliculas\\751573fc-17d3-4b34-9720-3024eb5ea6ae.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\751573fc-17d3-4b34-9720-3024eb5ea6ae.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\peliculas\\7e2daca5-2c76-4324-885b-e7d945db2f18.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\7e2daca5-2c76-4324-885b-e7d945db2f18.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\peliculas\\a74db1d6-d0fa-4c24-b4d3-0fb55c0d12a4.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\a74db1d6-d0fa-4c24-b4d3-0fb55c0d12a4.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\peliculas\\d537e2d5-bb2f-495a-9994-f15d2d1a36c4.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\d537e2d5-bb2f-495a-9994-f15d2d1a36c4.jpg"
+    },
+    {
+      "Id": "C:\\CSharp\\CursoAngular\\PeliculasAPI\\wwwroot\\peliculas\\e207259b-26cc-40ed-91da-97ed64eafac7.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\e207259b-26cc-40ed-91da-97ed64eafac7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PeliculasAPI.props",
+      "PackagePath": "build\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PeliculasAPI.props",
+      "PackagePath": "buildMultiTargeting\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PeliculasAPI.props",
+      "PackagePath": "buildTransitive\\PeliculasAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
